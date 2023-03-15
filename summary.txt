@@ -3,3 +3,8 @@ baguette
 croissant
 pain au lait
 
+italy:
+pizza
+pasta
+gnocchi
+
